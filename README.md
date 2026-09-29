@@ -19,8 +19,8 @@ Vest-mounted radios use rigid whip antennas that snag on door frames and obstacl
 | (c) Shielding toward the head | Full ground plane under the array; pattern directed up and outward; SAR to be evaluated |
 | (d) Ruggedized coax interface | Micro-coax / shielded cable routed along the helmet to the radio |
 
----
-![Uploading Screenshot 2026-09-26 214514.png…]()<img width="1920" height="1020" alt="Screenshot 2026-09-29 202929" src="https://github.com/user-attachments/assets/d8d29c34-c441-4a8c-bc99-496c3449deaa" />
+---<img width="1920" height="1020" alt="Screenshot 2026-09-29 202642" src="https://github.com/user-attachments/assets/7395a5f8-295b-406f-88ba-35dae5e1fc38" />
+<img width="1920" height="1020" alt="Screenshot 2026-09-26 214514" src="https://github.com/user-attachments/assets/3b49bae4-21f7-4617-8635-1bd64c14b137" />
 
 ## 2. Design Evolution
 
