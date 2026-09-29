@@ -1,3 +1,4 @@
+
 # Helmet-Mounted Conformal Dual-Band Microstrip Array (UHF + L-band)
 
 A low-profile, flexible, dual-band microstrip antenna array for NSG ballistic helmets in urban CQB communications. Developed for the Smart India Hackathon problem statement *"Helmet mounted conformal antenna for tactical communications in urban CQB environments."*
@@ -18,6 +19,7 @@ Vest-mounted radios use rigid whip antennas that snag on door frames and obstacl
 | (d) Ruggedized coax interface | Micro-coax / shielded cable routed along the helmet to the radio |
 
 ---
+![Uploading Screenshot 2026-09-26 214514.png…]()<img width="1920" height="1020" alt="Screenshot 2026-09-29 202929" src="https://github.com/user-attachments/assets/d8d29c34-c441-4a8c-bc99-496c3449deaa" />
 
 ## 2. Design Evolution
 
