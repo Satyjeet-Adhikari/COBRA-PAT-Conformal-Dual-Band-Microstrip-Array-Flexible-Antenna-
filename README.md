@@ -130,6 +130,4 @@ Beyond the antenna element, the following system-level research was carried out 
 
 Smart India Hackathon, NSG problem statement. Contributors: *(add names)*
 
-## 11. License
 
-*(Choose a license, e.g. MIT or Apache-2.0.)*
