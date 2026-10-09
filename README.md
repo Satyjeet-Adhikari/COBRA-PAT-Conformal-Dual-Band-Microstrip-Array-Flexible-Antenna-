@@ -1,4 +1,8 @@
 <img width="1920" height="1020" alt="Screenshot 2026-09-29 202929" src="https://github.com/user-attachments/assets/1aa7936d-69d4-43f6-934c-dc3211e500b5" />
+<img width="1727" height="917" alt="Screenshot 2026-10-04 160615" src="https://github.com/user-attachments/assets/b1ebd290-dde4-49ee-8858-016e25c83f6f" />
+<img width="1730" height="920" alt="Screenshot 2026-10-04 161543" src="https://github.com/user-attachments/assets/c7d7358a-1315-4c34-b33d-3e5c02ed625f" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-10-04 222041" src="https://github.com/user-attachments/assets/1122333a-13c7-4782-9dcc-90f32e20d653" />
 
 # Helmet-Mounted Conformal Dual-Band Microstrip Array (UHF + L-band)
 
